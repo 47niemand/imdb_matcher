@@ -14,8 +14,8 @@ This app is used to match files in a directory to imdb titles.
 # install
 
 ```bash
-  $ git clone https://github.com/47niemand/imdb_parser.git imdb_parser
-  $ cd imdb_parser 
+  $ git clone https://github.com/47niemand/imdb_matcher.git imdb_matcher
+  $ cd imdb_matcher 
   $ imdb-sqlite
 ```
 
