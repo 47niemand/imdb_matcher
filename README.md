@@ -25,6 +25,7 @@ If meta data available, additional tags will be created. Run this command, which
 
 ```bash
   $ ./extract_metadata.sh {directory_name}
+  
   Processing {directory_name}/{files}.mkv
   ...
 ```
@@ -35,6 +36,7 @@ To match files in a directory to imdb titles, run the program with the following
 
 ```bash
   $ python3 matcher.py {directory_name}
+  
   2022-07-14 13:59:17,419 Found 1 files
   2022-07-14 13:59:17,420 Opening database
   2022-07-14 13:59:19,477 Found 351556 titles
